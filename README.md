@@ -4,15 +4,15 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основаное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы It cool. Там я изучил Python, но вдруг меня сильно заинтересовала веб разработка! С января 2023 года начался мой путь в веб разработке. Развивайтесь!
 
 - :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
 
-- :seedling: Обязательно вернусь в Школу 21 и попаду на основное обучение.
+- :seedling: Хочу попать на стажировку в Яндекс.
 
-- :zap: Хочу освоить новую проффесию и найти работу.
+- :zap: Хочу освоить эту сферу и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivsid8@yandex.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sidorin7) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivsid8@yandex.ru)
 
 ---
 
@@ -22,18 +22,11 @@
     <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/sidorin7
-" target="_blank">
+    <a href="https://t.me/sidorin7" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
   </div>
 
